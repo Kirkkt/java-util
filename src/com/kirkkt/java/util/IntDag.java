@@ -1,4 +1,4 @@
-package com.kirkkt.util;
+package com.kirkkt.java.util;
 
 public class IntDag implements IIntDag {
     private int[] nodes;

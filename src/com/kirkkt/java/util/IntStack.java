@@ -1,4 +1,4 @@
-package com.kirkkt.util;
+package com.kirkkt.java.util;
 
 class IntStack implements IIntStack {
     private int[] s;
@@ -31,5 +31,6 @@ class IntStack implements IIntStack {
 
     @Override
     public boolean isEmpty() {
+        return n == 0;
     }
 }

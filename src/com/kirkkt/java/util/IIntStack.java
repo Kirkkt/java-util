@@ -1,4 +1,4 @@
-package com.kirkkt.util;
+package com.kirkkt.java.util;
 
 public interface IIntStack {
     public boolean push(int item);
